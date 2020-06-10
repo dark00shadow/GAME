@@ -1,0 +1,2 @@
+pyglet===1.5.5
+RectangleCollision===0.0.0.2
