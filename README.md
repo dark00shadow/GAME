@@ -14,6 +14,10 @@ https://pypi.org/project/pyglet/
 # GAME
  i guess this is a game??
 
+# VIDEOS
+
+https://youtu.be/HtL2tnnjoA0
+
 # FIRST VERSION
 
 with a player and points
