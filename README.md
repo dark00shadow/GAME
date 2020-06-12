@@ -19,6 +19,8 @@ https://pypi.org/project/pyglet/
 
 https://youtu.be/HtL2tnnjoA0
 
+https://youtu.be/8iKRDpvTVd0
+
 # FIRST VERSION
 
 with a player and points
