@@ -21,6 +21,8 @@ https://youtu.be/HtL2tnnjoA0
 
 https://youtu.be/8iKRDpvTVd0
 
+https://youtu.be/NHza5p4ZZSA
+
 # FIRST VERSION
 
 with a player and points
