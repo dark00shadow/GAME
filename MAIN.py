@@ -9,7 +9,7 @@ points = 0
 
 # Window stuff
 window = pyglet.window.Window(width=800,height=600,caption='GAME')
-icon = pyglet.image.load('icon.ico')
+icon = pyglet.image.load('icon.png')
 window.set_icon(icon)
 
 # Part of key stuff
